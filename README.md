@@ -1,7 +1,7 @@
 # CPP_2020_Chendaiyi
 
-本專案為 組件製程參數 Component-process-parameters 之相關資料
-主要研究題目為 
+本專案為"組件製程參數Component-process-parameters"之相關資料，
+其主要研究題目為： 
 開發估測金屬積層製造粗糙度之關鍵特徵搜尋與應用方法
 Development of Key Feature Searching and Application Methods for Estimating Roughness of Additive Manufacturing
 
